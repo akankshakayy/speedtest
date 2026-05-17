@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[https://akankshakayy.github.io/speedtest](https://yourusername.github.io/speedtest/)**
+👉 **(https://akankshakayy.github.io/speedtest/)**
 
 
 ---
