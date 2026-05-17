@@ -17,8 +17,6 @@ A sleek, real-time internet speed test web app that measures your connection and
 📱 Fully Responsive — works on mobile, tablet, and desktop
 🗂️ Zero Dependencies — pure HTML, CSS, and JavaScript. No frameworks, no installs.
 
-.
-
 
 🛠️ How It Works:
 Speed Measurement
