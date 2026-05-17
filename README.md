@@ -1,4 +1,3 @@
-# speedtest
 # ⚡ NetPulse — Network Speed Intelligence
 
 > A sleek, real-time internet speed test web app that measures your connection and diagnoses network issues — all in a single HTML file.
